@@ -1,3 +1,10 @@
-label { 
-    color:brown
+label {
+    color: #4682b4;
+    font-family: 'rainbow season';
+    margin-top: 50px!important;
+}
+
+#table-yuk {
+    margin: 20px 0px 10px 50px;
+    background-color: plum;
 }
