@@ -3,25 +3,25 @@
 }
 
 body {
-    background: url("./bg.jpg")
+    background: url("./Bio.jpg")
 }
 
 label {
-    color: #4682b4;
-    font-family: 'rainbow season';
-    margin-top: 50px!important;
+    color: #b3c1dc;
+    font-family: 'comic sans';
+    margin-top: 50px! important;
 }
 
-#table-yuk {
+#table-yuk{
     margin: 20px 0px 10px 50px;
-    background-color: plum;
+    background-color: #60b3e0;
     padding: 20px;
 }
 
 #box-head {
     margin-top: 10px;
     width: 900px;
-    background-color: #60b3e0;
+    background-color: #bad0e7;
     padding: 20px;
     display: block;
 }
@@ -29,7 +29,7 @@ label {
 #box-body {
     margin-top: 10px;
     width: 900px;
-    background-color: #60b3e0;
+    background-color: #bad0e7;
     padding: 5px;
     height: 300px;
 }
@@ -37,7 +37,7 @@ label {
 .box {
     margin-top: 10px;
     width: 350px;
-    background-color: #4682b4;
+    background-color: #bad0e7;
     margin-right: 10px;
     float: left;
     padding: 30px;
