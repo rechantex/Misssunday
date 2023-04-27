@@ -8,5 +8,23 @@
 </head>
 <body>
     <h1>Hello Wonderland</h1>
+    <?php
+        $tipe_data = "Santai Saja"; // tipe data string
+        $tipe_data = 5; //tipe data integer
+    ?>
+
+    <h2><?=$tipe_data?></h2>
+
+    <?php
+        $pecahan = 5.85; // tipe data float/pecahan
+    ?>
+
+    <h2>Saya menampilkan nilai pecahan<?=$pecahan?></h2>
+
+    <?php
+        $prbandingan = true;
+
+        echo $perbandingan
+    ?>
 </body>
 </html>
